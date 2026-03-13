@@ -235,6 +235,17 @@ This system can be implemented for:
 
 ---
 
+## 📥 Download
+
+- **CounterIDE Setup (Latest Version)**  
+![Release](https://img.shields.io/github/v/release/viwaretech/laporan-produksi?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/laporan-produksi?display_name=tag&label=Version&style=flat&color=4CAF50)  
+➡️ [Download](https://github.com/viwaretech/laporan-produksi/releases/latest/download/laporan-produksi.zip)
+
+- **CounterIDE Setup (Latest Version)**  
+![Release](https://img.shields.io/github/v/release/viwaretech/CounterIDE?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/CounterIDE?display_name=tag&label=Version&style=flat&color=4CAF50) ![Build](https://img.shields.io/badge/Build%20date-20260304-E7352C)<br>
+➡️ [Download Page](https://github.com/viwaretech/counter-ide)
+
+
 # 📜 License
 
 [**MIT License**](LICENSE)
