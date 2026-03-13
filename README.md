@@ -237,7 +237,7 @@ This system can be implemented for:
 
 ## 📥 Download
 
-- **CounterIDE Setup (Latest Version)**  
+- **Laporan Produksi (Latest Version)**  
 ![Release](https://img.shields.io/github/v/release/viwaretech/laporan-produksi?display_name=release&label=Release&style=flat) ![Version](https://img.shields.io/github/v/release/viwaretech/laporan-produksi?display_name=tag&label=Version&style=flat&color=4CAF50)  
 ➡️ [Download](https://github.com/viwaretech/laporan-produksi/releases/latest/download/laporan-produksi.zip)
 
